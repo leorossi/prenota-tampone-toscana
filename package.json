@@ -1,0 +1,20 @@
+{
+  "name": "prenota-tampone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "minimist": "^1.2.5",
+    "undici": "^4.12.1"
+  }
+}
